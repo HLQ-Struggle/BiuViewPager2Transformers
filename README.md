@@ -6,3 +6,5 @@ BiuViewPager2Transformers
 同时提供 apk-debug 方便需要的同学直接下载 apk 查看是否有想要的效果。
 
 gif 就不提供咯～
+
+附上原地址：https://github.com/leochuan/ViewPagerLayoutManager
