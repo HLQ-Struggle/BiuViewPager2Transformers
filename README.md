@@ -7,4 +7,3 @@ BiuViewPager2Transformers
 
 gif 就不提供咯～
 
-附上原地址：https://github.com/leochuan/ViewPagerLayoutManager
